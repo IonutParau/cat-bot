@@ -209,7 +209,7 @@ hints = [
     "Make sure to leave Cat Bot [a review on top.gg](<https://top.gg/bot/966695034340663367#reviews>)!",
 ]
 
-# laod the jsons
+# load the jsons
 with open("config/aches.json", "r") as f:
     ach_list = json.load(f)
 
